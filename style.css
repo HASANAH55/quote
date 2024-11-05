@@ -366,3 +366,17 @@
         content: "Do not wait to strike till the iron is hot, but make it hot by striking. – William Butler Yeats";
     }
 }
+@media (max-width:750px){
+   #ty{
+    margin-bottom: 0%;
+   }
+   #c{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50% ,-50% ); 
+   }
+   .title{
+    margin-top: 30px;
+   }
+}
